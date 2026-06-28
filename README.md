@@ -19,4 +19,4 @@ I started out writing C++ simulations for CERN's LHC experiments, spent ~20 year
 I build heavily with AI agents — my work is the architecture, the evaluation, and the debugging, and directing agents to a production standard. The throughline: *verification, not generation, is the bottleneck.* Eval gates, layered automated review, and human attention on the decisions that carry risk — whether the artifact is an app, a retrieval pipeline, or a PR.
 
 ### Reach me
-[LinkedIn](https://linkedin.com/in/nikolaisachok)
+[LinkedIn](https://linkedin.com/in/nikolai-sachok/)
